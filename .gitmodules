@@ -1,0 +1,3 @@
+[submodule "engine/third_party/link"]
+	path = engine/third_party/link
+	url = https://github.com/Ableton/link.git
